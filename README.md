@@ -1,2 +1,2 @@
-# my-first-readme
-Repo using a README
+# My first README
+My repo explaining how to use README.
